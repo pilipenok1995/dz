@@ -1,0 +1,7 @@
+x = input('add a sum: ')
+print(x)
+y = input('how many years: ')
+print(y)
+z = input('percentage: ')
+print(z)
+print(((int(x)*(int(z)/100))*int(y))+int(x))
